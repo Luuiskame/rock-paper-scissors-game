@@ -88,7 +88,7 @@ p {
     justify-content: center;
     width: 90%;
     margin: auto auto;
-    background-image: url(/rock-paper-scissors-master/images/bg-triangle.svg);
+    background-image: url(./rock-paper-scissors-master/images/bg-triangle.svg);
     background-repeat: no-repeat;
     background-size: 200px;
     background-position: center center;

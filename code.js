@@ -102,9 +102,6 @@ closeBtn.addEventListener("click", function(){
     rules.classList.remove("show")
 })
 
-function winnerEffect() {
-}
-
 
 
 
